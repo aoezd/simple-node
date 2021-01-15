@@ -1,4 +1,7 @@
 # Simple Node
+
+[![Build Status](https://travis-ci.org/aoezd/what-to-binge-watch.svg?branch=master)](https://travis-ci.org/aoezd/what-to-binge-watch)
+
 ## Overview
 This is a very simple, bare-bones NodeJS project created for you to use with Docker.
 
